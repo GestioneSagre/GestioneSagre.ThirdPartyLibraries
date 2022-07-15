@@ -10,3 +10,12 @@
 ### Installation
 
 The library is available on [NuGet](https://www.nuget.org/packages/GestioneSagre.ThirdPartyLibraries).
+
+
+### Referenced packages
+
+- Scrutor
+- Swashbuckle.AspNetCore
+- MailKit
+- Magick.NET-Q8-AnyCPU
+- SequentialGuid
